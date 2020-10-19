@@ -39,7 +39,9 @@ with open(GPX_FILE, "r") as gpx_file:
                 speeds = [
                     tag.text for tag in point.extensions if tag.tag.endswith("speed")
                 ]
-                speed = float(speeds[0]) if speeds else 0
+                speedMeterPerSeconds = float(speeds[0]) if speeds else 0
+
+                speedKmh = speedMeterPerSeconds * 3600 / 1000
 
                 time = f"{point.time:%H%M%S.%f}"[:-3]
                 lat, lon = sd_to_dm(point.latitude, point.longitude)
@@ -76,7 +78,7 @@ with open(GPX_FILE, "r") as gpx_file:
                         lat[1],  # Latitude direction
                         lon[0],  # Longitude
                         lon[1],  # Longitude
-                        f"{speed:.2f}".zfill(6),  # Speed
+                        f"{speedKmh:.2f}".zfill(6),  # Speed
                         "0.0",  # True course
                         f"{point.time:%d%m%y}",  # Datestamp
                         "",  # Magnetic Variation
@@ -89,12 +91,14 @@ with open(GPX_FILE, "r") as gpx_file:
                 coordinate = f"{point.longitude},{point.latitude},{point.elevation}"
                 coordinates_buffer.write(f"{coordinate}\n")
 
+                description = f"<br/>Altitude {point.elevation:.1f}m"
+                if speedKmh:
+                    description += f"<br/>Speed {speedKmh:.2f}km/h"
+
                 waypoint_placemarks.append(
                     KML.Placemark(
                         KML.name(f"POI #{poi_count}"),
-                        KML.description(
-                            f"<br/>Altitude {point.elevation:.1f}m<br/>Speed {speed:.2f}km/h"
-                        ),
+                        KML.description(description),
                         KML.visibility(0),
                         KML.styleUrl("#IconWpt"),
                         KML.Point(
