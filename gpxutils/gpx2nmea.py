@@ -16,15 +16,19 @@ NMEA_FILE = "data/nav-solo.nmea"
 KML_FILE = "data/nav-solo.kml"
 
 nmea_buffer = StringIO()
-coordinates_buffer = StringIO()
 
+coordinates_buffer = StringIO()
+waypoint_placemarks = []
 
 with open(GPX_FILE, "r") as gpx_file:
     gpx = gpxpy.parse(gpx_file)
 
+    poi_count = 0
+
     for track in gpx.tracks:
         for segment in track.segments:
             for point in segment.points:
+                poi_count += 1
                 print(
                     "Point at ({0},{1}) -> {2}".format(
                         point.latitude, point.longitude, point.elevation
@@ -82,9 +86,27 @@ with open(GPX_FILE, "r") as gpx_file:
                 )
                 nmea_buffer.write(f"{msg}\n")
 
-                coordinates_buffer.write(
-                    f"{point.longitude},{point.latitude},{point.elevation}\n"
+                coordinate = f"{point.longitude},{point.latitude},{point.elevation}"
+                coordinates_buffer.write(f"{coordinate}\n")
+
+                waypoint_placemarks.append(
+                    KML.Placemark(
+                        KML.name(f"POI #{poi_count}"),
+                        KML.description(
+                            f"<br/>Altitude {point.elevation:.1f}m<br/>Speed {speed:.2f}km/h"
+                        ),
+                        KML.visibility(0),
+                        KML.styleUrl("#IconWpt"),
+                        KML.Point(
+                            KML.altitudeMode("absolute"),
+                            KML.extrude("1"),
+                            KML.coordinates(coordinate),
+                        )
+                    )
                 )
+
+        
+
 
 # Generate NMEA file
 with open(NMEA_FILE, "w") as nmea_file:
@@ -93,6 +115,8 @@ with open(NMEA_FILE, "w") as nmea_file:
 # Generate KML file
 # Generation du fichier KML
 kml_name = os.path.basename(KML_FILE).rsplit(".", 1)[0]
+
+
 doc = KML.kml(
     KML.Document(
         KML.name(kml_name),
@@ -116,6 +140,11 @@ doc = KML.kml(
                 ),
                 id="",
             ),
+        ),
+
+        KML.Folder(
+            KML.name("Trace Waypoint"),
+            *waypoint_placemarks
         ),
     )
 )
