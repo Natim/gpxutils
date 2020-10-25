@@ -11,9 +11,9 @@ from pykml.parser import Schema
 from utils import sd_to_dm
 
 # DATA
-GPX_FILE = "data/nav-solo.gpx"
-NMEA_FILE = "data/nav-solo.nmea"
-KML_FILE = "data/nav-solo.kml"
+GPX_FILE = "data/pre-nav-solo.gpx"
+NMEA_FILE = "data/pre-nav-solo.nmea"
+KML_FILE = "data/pre-nav-solo.kml"
 
 nmea_buffer = StringIO()
 
@@ -67,7 +67,7 @@ with open(GPX_FILE, "r") as gpx_file:
                         "0000",
                     ),
                 )
-                nmea_buffer.write(f"{msg}\n")
+                nmea_buffer.write(f"{msg}\r\n")
                 msg = pynmea2.RMC(
                     "GP",
                     "RMC",
@@ -86,7 +86,7 @@ with open(GPX_FILE, "r") as gpx_file:
                         "E",  # Magnetic Variation Direction
                     ),
                 )
-                nmea_buffer.write(f"{msg}\n")
+                nmea_buffer.write(f"{msg}\r\n")
 
                 coordinate = f"{point.longitude},{point.latitude},{point.elevation}"
                 coordinates_buffer.write(f"{coordinate}\n")

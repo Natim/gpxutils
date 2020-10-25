@@ -1,0 +1,4796 @@
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:gx="http://www.google.com/kml/ext/2.2">
+  <Document>
+    <name>pre-nav-solo</name>
+    <description>Trace GPS &#8212; gpxutils</description>
+    <Folder>
+      <name>Mes vols</name>
+      <Placemark id="">
+        <name>pre-nav-solo</name>
+        <description>Trace GPS &#8212; gpxutils</description>
+        <styleUrl>#yellowLineGreenPoly</styleUrl>
+        <Style id="yellowLineGreenPoly">
+          <LineStyle>
+            <color>7fff0000</color>
+            <width>4</width>
+          </LineStyle>
+          <PolyStyle>
+            <color>7fff0000</color>
+          </PolyStyle>
+        </Style>
+        <LineString>
+          <extrude>1</extrude>
+          <tessellate>0</tessellate>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>-1.7302546,48.0679789,71.472900390625
+-1.7303539,48.0679797,81.13909912109375
+-1.7304395,48.0680482,83.3165283203125
+-1.7305392,48.0682689,88.60198974609375
+-1.7305976,48.0682288,91.75750732421875
+-1.7308581,48.0678812,81.1934814453125
+-1.7317288,48.066551,74.890625
+-1.7327626,48.0658496,43.46624755859375
+-1.7329397,48.0656393,69.530517578125
+-1.7330311,48.0658716,73.75213623046875
+-1.7335467,48.0655473,78.08154296875
+-1.7334827,48.0655844,80.74591064453125
+-1.7337888,48.065371,89.534423828125
+-1.7344006,48.0647971,84.57025146484375
+-1.7338788,48.0642776,76.82275390625
+-1.7333734,48.0639515,82.4437255859375
+-1.7334631,48.0639123,71.5523681640625
+-1.7335691,48.0640075,78.49395751953125
+-1.7338739,48.0642498,93.175537109375
+-1.7407848,48.0700684,120.1802978515625
+-1.7446498,48.0729793,159.781982421875
+-1.7510209,48.0781133,218.42510986328125
+-1.7527062,48.0813087,217.14849853515625
+-1.7513583,48.0847867,245.86474609375
+-1.7463109,48.0865261,295.8568115234375
+-1.7349757,48.0841892,350.5606689453125
+-1.7245537,48.0808559,394.58135986328125
+-1.7187495,48.0794049,419.3590087890625
+-1.7068728,48.077372,475.3209228515625
+-1.7011419,48.07641,514.6401977539062
+-1.6950242,48.0755104,559.373291015625
+-1.6840286,48.0733042,618.1728515625
+-1.6737798,48.0708648,660.0228271484375
+-1.6678207,48.0694879,704.73681640625
+-1.6514394,48.0648842,771.4736328125
+-1.6460913,48.0630188,792.78076171875
+-1.6408793,48.0612426,836.0498046875
+-1.6358355,48.059397,861.70166015625
+-1.6258218,48.0556531,917.373291015625
+-1.6200396,48.0534765,931.497802734375
+-1.609208,48.0498467,940.39892578125
+-1.6030547,48.0480275,938.53369140625
+-1.5906931,48.0434958,950.2972412109375
+-1.5846485,48.0410742,961.6087646484375
+-1.5779679,48.0392755,949.8408203125
+-1.5714232,48.0377613,949.80517578125
+-1.5588308,48.0348263,944.06884765625
+-1.5521504,48.03352,944.456787109375
+-1.5396015,48.0308489,904.116943359375
+-1.5331376,48.0300571,895.13427734375
+-1.5209385,48.0297466,894.232421875
+-1.5143994,48.029711,907.76171875
+-1.502128,48.0314098,914.0865478515625
+-1.4911788,48.0337147,873.272705078125
+-1.4854673,48.0347938,898.2491455078125
+-1.4799401,48.0360883,906.544677734375
+-1.4685312,48.0393497,907.9320068359375
+-1.46339,48.0408727,888.822021484375
+-1.4582956,48.0427516,901.78369140625
+-1.4478333,48.0459957,869.0579833984375
+-1.4424923,48.0477569,889.6392822265625
+-1.4313319,48.0514642,895.9488525390625
+-1.4212359,48.0546638,873.35693359375
+-1.4096898,48.0564357,923.9443359375
+-1.3983381,48.0575702,914.24169921875
+-1.3924525,48.0578471,926.41796875
+-1.3863054,48.0574959,938.306396484375
+-1.3743701,48.0559408,935.631103515625
+-1.3670704,48.0550029,946.079345703125
+-1.3606396,48.0539026,943.918701171875
+-1.3474319,48.0524251,930.4725341796875
+-1.3353255,48.0505302,932.248779296875
+-1.328021,48.0482755,936.531494140625
+-1.3156709,48.0438964,942.1171875
+-1.3091609,48.0418298,954.56640625
+-1.2969203,48.0390046,946.592529296875
+-1.2901453,48.0376862,940.2943115234375
+-1.2837284,48.0364495,929.1318359375
+-1.2765862,48.0350284,941.395263671875
+-1.2634625,48.0322175,934.6231689453125
+-1.2513892,48.0287461,959.0625
+-1.2447684,48.0279689,955.30029296875
+-1.2374217,48.0274135,948.161865234375
+-1.2306885,48.0267542,918.98779296875
+-1.2180373,48.0252792,931.93359375
+-1.2052763,48.0243423,930.4337158203125
+-1.1912618,48.0222298,889.1761474609375
+-1.1843157,48.0209777,880.14208984375
+-1.1711293,48.0195104,857.038330078125
+-1.1648487,48.0187904,878.274169921875
+-1.1532253,48.0175963,881.950927734375
+-1.1466154,48.0170218,873.0443115234375
+-1.1348543,48.015985,880.358642578125
+-1.1280178,48.0160233,882.9951171875
+-1.1164484,48.0167281,903.05712890625
+-1.1103137,48.0169694,888.695068359375
+-1.1039872,48.0167005,906.570068359375
+-1.0977045,48.0164175,900.796630859375
+-1.0914948,48.0168613,913.6083984375
+-1.0851609,48.016901,901.55078125
+-1.0789621,48.0165513,904.35693359375
+-1.0654327,48.0164017,899.14697265625
+-1.0535114,48.0155166,896.419677734375
+-1.0410663,48.0149337,902.051513671875
+-1.0288435,48.0156801,875.541259765625
+-1.0224292,48.0163153,885.5841064453125
+-1.010045,48.0173895,867.521484375
+-1.0035366,48.0180595,877.9224853515625
+-0.9966792,48.0184204,875.12890625
+-0.9834563,48.018932,875.674560546875
+-0.971095,48.0189136,862.95947265625
+-0.9642247,48.0186328,871.8837890625
+-0.9567739,48.0180995,852.80029296875
+-0.9442155,48.0178552,852.06005859375
+-0.9376582,48.0177934,869.97998046875
+-0.9307485,48.0177263,883.135986328125
+-0.9181136,48.0173329,881.02099609375
+-0.9119326,48.0173134,887.786376953125
+-0.8993849,48.0178306,891.5782470703125
+-0.892465,48.0183005,862.267822265625
+-0.8796972,48.0179501,842.9210205078125
+-0.8724963,48.0173269,834.6978759765625
+-0.8602737,48.0164176,818.891845703125
+-0.8471494,48.0152899,771.9266357421875
+-0.8340292,48.0145817,717.58056640625
+-0.8272098,48.0139742,657.227783203125
+-0.820341,48.0137864,647.485107421875
+-0.8135731,48.0135553,574.758056640625
+-0.8060317,48.0137121,538.8612060546875
+-0.792198,48.0138258,456.6195068359375
+-0.7852821,48.0123637,458.3505859375
+-0.7740451,48.0085934,398.238525390625
+-0.7682025,48.0057847,401.4970703125
+-0.7594681,48.0001374,412.93902587890625
+-0.7551017,47.9970056,419.6541748046875
+-0.750453,47.9940205,453.7392578125
+-0.7444103,47.9921336,439.305419921875
+-0.7349108,47.995545,416.296630859375
+-0.7308356,47.9976698,403.88226318359375
+-0.726457,48.0000499,394.751708984375
+-0.7201917,48.0051282,343.5831298828125
+-0.7186936,48.0085782,296.58880615234375
+-0.7210516,48.012085,264.57379150390625
+-0.7249696,48.0156753,233.985107421875
+-0.7309863,48.0209212,202.39642333984375
+-0.7339883,48.023555,185.5701904296875
+-0.737058,48.0264189,157.873046875
+-0.7403393,48.0291099,147.21014404296875
+-0.7427163,48.0311729,135.97528076171875
+-0.7482563,48.0360687,188.7440185546875
+-0.7543878,48.0411212,235.732421875
+-0.7581103,48.0436158,269.363525390625
+-0.7619079,48.0456746,302.84820556640625
+-0.7672735,48.0464654,339.7845458984375
+-0.77364,48.0454281,390.4970703125
+-0.7851239,48.039601,416.439697265625
+-0.7897124,48.0356177,422.537109375
+-0.7904328,48.0260788,415.0341796875
+-0.7856584,48.0225546,415.240966796875
+-0.7811368,48.0194591,425.27716064453125
+-0.7734096,48.0137482,418.3905029296875
+-0.7692138,48.0102738,412.47930908203125
+-0.7611444,48.004679,434.8126220703125
+-0.7571538,48.0019225,405.5994873046875
+-0.7519992,47.9992226,421.70306396484375
+-0.7415186,47.9960955,396.660400390625
+-0.7366471,47.9972447,420.277587890625
+-0.7281755,48.0008692,400.4034423828125
+-0.723968,48.0036245,362.943115234375
+-0.7206006,48.0062257,349.67657470703125
+-0.7219401,48.0130317,292.90924072265625
+-0.7287765,48.0190597,237.7420654296875
+-0.7322406,48.0221442,210.5712890625
+-0.7353371,48.0248931,185.1368408203125
+-0.7409523,48.0298105,148.135009765625
+-0.7431102,48.0315845,157.18707275390625
+-0.7456797,48.0337668,146.7188720703125
+-0.7488407,48.0365576,168.3804931640625
+-0.7523681,48.0394713,213.47998046875
+-0.7603051,48.0445406,262.69970703125
+-0.7724035,48.0461883,334.5667724609375
+-0.7852603,48.044903,389.58306884765625
+-0.7918175,48.0445818,436.13507080078125
+-0.7985311,48.0442504,481.7427978515625
+-0.8054651,48.0439571,495.39300537109375
+-0.8123928,48.0436592,530.86279296875
+-0.819168,48.0434694,559.5045166015625
+-0.8261344,48.0431896,569.009765625
+-0.8331701,48.0428362,600.787841796875
+-0.8401929,48.0423157,611.682861328125
+-0.8476674,48.0421211,641.95166015625
+-0.8556202,48.0417721,664.4404296875
+-0.8693613,48.0415325,708.05517578125
+-0.876762,48.0412686,747.1529541015625
+-0.8840342,48.0408208,759.672119140625
+-0.8916715,48.0403971,766.81103515625
+-0.8998804,48.0395907,812.2493896484375
+-0.9141229,48.0374528,830.9779052734375
+-0.9222016,48.0360257,874.910888671875
+-0.9293239,48.0340004,888.46240234375
+-0.9434299,48.0297617,939.369384765625
+-0.9507947,48.027771,950.748046875
+-0.9587625,48.0259192,963.596923828125
+-0.966488,48.0244072,981.2252197265625
+-0.9755162,48.0228264,1009.7481689453125
+-0.9912743,48.0222122,982.9208984375
+-1.0003815,48.0228802,992.41748046875
+-1.0165205,48.0241212,978.854248046875
+-1.0256781,48.0230423,994.5396728515625
+-1.0418167,48.022985,976.8057861328125
+-1.0499059,48.0242221,959.16650390625
+-1.057911,48.0256816,931.06103515625
+-1.0659577,48.0274302,931.6663818359375
+-1.0744475,48.0293608,924.477783203125
+-1.0819278,48.031423,920.970458984375
+-1.0966583,48.0348819,893.19580078125
+-1.1050214,48.0361976,867.1148681640625
+-1.113668,48.0375185,883.488037109375
+-1.1223346,48.0389036,878.192138671875
+-1.1374576,48.0406692,864.743896484375
+-1.1459379,48.0410654,852.6204833984375
+-1.1544377,48.0415458,844.5396728515625
+-1.1624536,48.0420992,861.533447265625
+-1.1712967,48.04274,827.5501708984375
+-1.1878221,48.0436061,823.2686767578125
+-1.2032652,48.044762,799.3636474609375
+-1.211799,48.0457008,755.296142578125
+-1.2200487,48.0468514,757.500732421875
+-1.2285824,48.0475972,720.220703125
+-1.2367126,48.048988,661.04345703125
+-1.2515545,48.0514708,658.1397705078125
+-1.2664589,48.0518996,658.0673828125
+-1.2750425,48.0519286,663.26220703125
+-1.289581,48.0517128,643.114013671875
+-1.2972142,48.0519826,649.053466796875
+-1.3055302,48.0521606,661.1768798828125
+-1.3127752,48.0523451,625.586181640625
+-1.3197926,48.0523935,572.3861083984375
+-1.332449,48.0542697,460.74359130859375
+-1.3367049,48.0566599,418.7098388671875
+-1.3383406,48.0603533,392.55487060546875
+-1.3383452,48.0639364,315.69580078125
+-1.3387675,48.0704542,230.598876953125
+-1.3394844,48.0738119,245.94866943359375
+-1.3408389,48.0770237,266.51275634765625
+-1.3500271,48.0795677,312.099609375
+-1.3560694,48.0785721,333.34002685546875
+-1.3620049,48.0759268,373.068359375
+-1.3644984,48.0718422,393.6533203125
+-1.3647716,48.0675766,416.8194580078125
+-1.3639981,48.0587654,487.41326904296875
+-1.3626832,48.0488475,501.50830078125
+-1.3745836,48.0454906,492.876220703125
+-1.3889504,48.0457456,484.2210693359375
+-1.3965906,48.0455397,519.2403564453125
+-1.4024453,48.0453777,482.895751953125
+-1.4127312,48.0484858,362.46630859375
+-1.4096232,48.054301,291.55804443359375
+-1.4090621,48.0606361,246.0283203125
+-1.4132433,48.0629356,260.5849609375
+-1.424685,48.0615717,353.91656494140625
+-1.4300204,48.0588614,375.7763671875
+-1.4331706,48.0505911,403.40606689453125
+-1.4295135,48.0466142,495.9354248046875
+-1.4198085,48.0439468,558.288330078125
+-1.4143956,48.0490385,611.390380859375
+-1.4169838,48.0524328,593.2744140625
+-1.4261036,48.051025,678.122314453125
+-1.4402754,48.0494497,663.072265625
+-1.4486405,48.0492284,669.5302734375
+-1.4653412,48.049265,646.131103515625
+-1.4736989,48.049295,632.360107421875
+-1.4817937,48.0494253,649.40380859375
+-1.498003,48.0497128,642.49560546875
+-1.5135113,48.0503171,626.46435546875
+-1.5214424,48.0504076,618.731689453125
+-1.5294835,48.0505389,625.38134765625
+-1.537921,48.0504469,601.8193359375
+-1.5458728,48.0504255,596.06298828125
+-1.5537682,48.0506364,557.4483642578125
+-1.5620607,48.050787,532.4140625
+-1.5707801,48.0513794,517.8630981445312
+-1.5868389,48.052927,482.933349609375
+-1.6005429,48.0548065,467.091552734375
+-1.6082473,48.0557956,438.1697998046875
+-1.62158,48.0573867,431.4451904296875
+-1.6278783,48.0582804,425.66241455078125
+-1.6406524,48.0601075,425.2784423828125
+-1.6470859,48.0609201,409.516357421875
+-1.6589341,48.0624011,372.9825439453125
+-1.6657832,48.0634022,349.5399169921875
+-1.672069,48.0641386,330.302734375
+-1.678291,48.0649833,296.8563232421875
+-1.6899911,48.0663977,267.6923828125
+-1.6960238,48.0672638,209.432373046875
+-1.7022319,48.0681317,186.0198974609375
+-1.7133978,48.0695707,141.74981689453125
+-1.7186259,48.0701879,125.29736328125
+-1.7266003,48.0712955,55.38397216796875
+-1.7307937,48.0718058,79.8673095703125
+-1.736059,48.0724529,89.37646484375
+-1.7416613,48.0731024,116.4976806640625
+-1.7531454,48.0747431,168.15020751953125
+-1.7594797,48.0754427,204.9244384765625
+-1.7718699,48.0766317,297.960693359375
+-1.7779718,48.0770273,328.938720703125
+-1.7892906,48.0770139,386.113525390625
+-1.7934986,48.07334,440.435791015625
+-1.7907563,48.0693327,460.66815185546875
+-1.7859586,48.066113,493.9488525390625
+-1.7770535,48.0598469,477.88946533203125
+-1.7722446,48.0566998,469.03887939453125
+-1.7674478,48.0537984,484.7991943359375
+-1.7571849,48.049394,483.89398193359375
+-1.7518502,48.0482566,461.1072998046875
+-1.7474384,48.0482661,403.1595458984375
+-1.7365987,48.0495508,312.28411865234375
+-1.732232,48.0509453,275.44207763671875
+-1.7301663,48.0538163,227.540771484375
+-1.7299575,48.0573955,200.73150634765625
+-1.7324003,48.0630527,110.70208740234375
+-1.7350149,48.0652471,90.90625
+-1.7367246,48.0668395,86.857421875
+-1.7381403,48.0680274,78.758544921875
+-1.7387289,48.0685279,89.6790771484375
+-1.7388411,48.0685998,87.073974609375
+-1.7388376,48.06848,91.64031982421875
+-1.7373682,48.067254,83.0704345703125
+-1.7354174,48.065585,80.60601806640625
+-1.7346933,48.0648878,84.55133056640625
+-1.7341441,48.0644711,79.03021240234375
+-1.734267,48.0641985,79.8082275390625
+-1.7343836,48.063538,84.030517578125
+-1.7341533,48.0631761,80.49853515625
+-1.7341231,48.0630648,92.21990966796875
+-1.7340359,48.0628821,100.469482421875
+-1.7341221,48.0627981,96.78204345703125
+-1.7346198,48.0626153,76.2620849609375
+-1.7345719,48.0624262,67.406494140625
+-1.7346026,48.0623653,71.62786865234375
+-1.7345472,48.0623972,69.6412353515625
+-1.7345228,48.0624391,73.35858154296875
+-1.7344871,48.0624782,71.8048095703125
+-1.7346713,48.0619422,78.4110107421875
+-1.7344545,48.0617151,109.43408203125
+-1.7343521,48.0615739,67.07879638671875
+-1.7342136,48.0613775,79.7623291015625
+-1.7341673,48.061285,88.91546630859375
+-1.7341688,48.0613357,86.4356689453125
+-1.7342321,48.0613585,80.19999694824219
+-1.7342952,48.0613317,80.29999542236328
+-1.7342865,48.0613869,80.29999542236328
+-1.7341356,48.0613007,80.29999542236328
+-1.7335083,48.0609513,80.29999542236328
+-1.7383611,48.0560739,80.29999542236328
+-1.7385764,48.0554029,80.29999542236328
+-1.7367558,48.0545428,84.016845703125
+-1.7260808,48.0534316,90.17041015625
+-1.723317,48.0527728,100.48785400390625
+-1.7202754,48.052023,96.5125732421875
+-1.7163756,48.0510902,85.21063232421875
+-1.709153,48.0486335,105.83319091796875
+-1.709042,48.0483374,87.9000015258789
+-1.7077322,48.0493634,87.9000015258789
+-1.7050587,48.053578,87.9000015258789
+-1.702475,48.0572238,77.5203857421875
+-1.700575,48.0597442,80.04052734375
+-1.6992449,48.06224,75.9202880859375
+-1.6981262,48.0667438,93.602783203125
+-1.6966027,48.0718024,81.36700439453125
+-1.6955333,48.0748425,76.4443359375
+-1.6941846,48.0770716,90.8236083984375
+-1.6793331,48.080387,82.612060546875
+-1.6688391,48.0811731,83.83837890625
+-1.6654383,48.0812777,65.33740234375
+-1.6580534,48.0812947,96.61663818359375
+-1.6543548,48.0814828,92.68157958984375
+-1.6463274,48.0819344,87.57177734375
+-1.6396293,48.0851295,93.183349609375
+-1.6363404,48.0867135,81.96173095703125
+-1.6298726,48.0902244,99.711181640625
+-1.6269646,48.091845,71.03289794921875
+-1.6218056,48.0948374,92.6220703125
+-1.6159321,48.0980691,100.83935546875
+-1.6115846,48.1001645,88.16259765625
+-1.6093529,48.1012822,117.082275390625
+-1.6083673,48.1020848,129.047119140625
+-1.609317,48.1028574,96.801513671875
+-1.6115111,48.1032352,105.7576904296875
+-1.6161603,48.1064726,108.759521484375
+-1.6162859,48.1073876,78.90020751953125
+-1.6110876,48.1083041,93.0999984741211
+-1.6089161,48.1097675,89.19999694824219
+-1.6081485,48.1123736,89.19999694824219
+-1.6066134,48.1129076,74.5
+-1.6069706,48.1132859,74.79999542236328
+-1.6069739,48.1133964,74.79999542236328
+</coordinates>
+        </LineString>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Trace Waypoint</name>
+      <Placemark>
+        <name>POI #1</name>
+        <description>&lt;br/&gt;Altitude 71.5m</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.7302546,48.0679789,71.472900390625</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #2</name>
+        <description>&lt;br/&gt;Altitude 81.1m&lt;br/&gt;Speed 0.48km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.7303539,48.0679797,81.13909912109375</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #3</name>
+        <description>&lt;br/&gt;Altitude 83.3m&lt;br/&gt;Speed 2.16km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.7304395,48.0680482,83.3165283203125</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #4</name>
+        <description>&lt;br/&gt;Altitude 88.6m&lt;br/&gt;Speed 3.98km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.7305392,48.0682689,88.60198974609375</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #5</name>
+        <description>&lt;br/&gt;Altitude 91.8m&lt;br/&gt;Speed 0.37km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.7305976,48.0682288,91.75750732421875</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #6</name>
+        <description>&lt;br/&gt;Altitude 81.2m&lt;br/&gt;Speed 21.51km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.7308581,48.0678812,81.1934814453125</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #7</name>
+        <description>&lt;br/&gt;Altitude 74.9m&lt;br/&gt;Speed 30.88km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.7317288,48.066551,74.890625</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #8</name>
+        <description>&lt;br/&gt;Altitude 43.5m&lt;br/&gt;Speed 25.36km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.7327626,48.0658496,43.46624755859375</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #9</name>
+        <description>&lt;br/&gt;Altitude 69.5m&lt;br/&gt;Speed 12.23km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.7329397,48.0656393,69.530517578125</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #10</name>
+        <description>&lt;br/&gt;Altitude 73.8m&lt;br/&gt;Speed 16.27km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.7330311,48.0658716,73.75213623046875</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #11</name>
+        <description>&lt;br/&gt;Altitude 78.1m&lt;br/&gt;Speed 0.55km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.7335467,48.0655473,78.08154296875</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #12</name>
+        <description>&lt;br/&gt;Altitude 80.7m&lt;br/&gt;Speed 1.30km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.7334827,48.0655844,80.74591064453125</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #13</name>
+        <description>&lt;br/&gt;Altitude 89.5m&lt;br/&gt;Speed 21.31km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.7337888,48.065371,89.534423828125</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #14</name>
+        <description>&lt;br/&gt;Altitude 84.6m&lt;br/&gt;Speed 21.51km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.7344006,48.0647971,84.57025146484375</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #15</name>
+        <description>&lt;br/&gt;Altitude 76.8m&lt;br/&gt;Speed 24.74km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.7338788,48.0642776,76.82275390625</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #16</name>
+        <description>&lt;br/&gt;Altitude 82.4m&lt;br/&gt;Speed 9.30km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.7333734,48.0639515,82.4437255859375</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #17</name>
+        <description>&lt;br/&gt;Altitude 71.6m&lt;br/&gt;Speed 8.05km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.7334631,48.0639123,71.5523681640625</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #18</name>
+        <description>&lt;br/&gt;Altitude 78.5m&lt;br/&gt;Speed 0.67km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.7335691,48.0640075,78.49395751953125</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #19</name>
+        <description>&lt;br/&gt;Altitude 93.2m&lt;br/&gt;Speed 29.61km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.7338739,48.0642498,93.175537109375</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #20</name>
+        <description>&lt;br/&gt;Altitude 120.2m&lt;br/&gt;Speed 133.13km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.7407848,48.0700684,120.1802978515625</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #21</name>
+        <description>&lt;br/&gt;Altitude 159.8m&lt;br/&gt;Speed 140.18km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.7446498,48.0729793,159.781982421875</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #22</name>
+        <description>&lt;br/&gt;Altitude 218.4m&lt;br/&gt;Speed 140.36km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.7510209,48.0781133,218.42510986328125</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #23</name>
+        <description>&lt;br/&gt;Altitude 217.1m&lt;br/&gt;Speed 136.55km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.7527062,48.0813087,217.14849853515625</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #24</name>
+        <description>&lt;br/&gt;Altitude 245.9m&lt;br/&gt;Speed 126.65km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.7513583,48.0847867,245.86474609375</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #25</name>
+        <description>&lt;br/&gt;Altitude 295.9m&lt;br/&gt;Speed 155.66km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.7463109,48.0865261,295.8568115234375</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #26</name>
+        <description>&lt;br/&gt;Altitude 350.6m&lt;br/&gt;Speed 170.03km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.7349757,48.0841892,350.5606689453125</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #27</name>
+        <description>&lt;br/&gt;Altitude 394.6m&lt;br/&gt;Speed 162.83km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.7245537,48.0808559,394.58135986328125</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #28</name>
+        <description>&lt;br/&gt;Altitude 419.4m&lt;br/&gt;Speed 164.63km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.7187495,48.0794049,419.3590087890625</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #29</name>
+        <description>&lt;br/&gt;Altitude 475.3m&lt;br/&gt;Speed 161.68km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.7068728,48.077372,475.3209228515625</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #30</name>
+        <description>&lt;br/&gt;Altitude 514.6m&lt;br/&gt;Speed 152.53km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.7011419,48.07641,514.6401977539062</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #31</name>
+        <description>&lt;br/&gt;Altitude 559.4m&lt;br/&gt;Speed 159.77km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.6950242,48.0755104,559.373291015625</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #32</name>
+        <description>&lt;br/&gt;Altitude 618.2m&lt;br/&gt;Speed 160.63km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.6840286,48.0733042,618.1728515625</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #33</name>
+        <description>&lt;br/&gt;Altitude 660.0m&lt;br/&gt;Speed 154.55km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.6737798,48.0708648,660.0228271484375</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #34</name>
+        <description>&lt;br/&gt;Altitude 704.7m&lt;br/&gt;Speed 153.04km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.6678207,48.0694879,704.73681640625</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #35</name>
+        <description>&lt;br/&gt;Altitude 771.5m&lt;br/&gt;Speed 157.72km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.6514394,48.0648842,771.4736328125</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #36</name>
+        <description>&lt;br/&gt;Altitude 792.8m&lt;br/&gt;Speed 161.14km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.6460913,48.0630188,792.78076171875</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #37</name>
+        <description>&lt;br/&gt;Altitude 836.0m&lt;br/&gt;Speed 153.11km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.6408793,48.0612426,836.0498046875</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #38</name>
+        <description>&lt;br/&gt;Altitude 861.7m&lt;br/&gt;Speed 157.36km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.6358355,48.059397,861.70166015625</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #39</name>
+        <description>&lt;br/&gt;Altitude 917.4m&lt;br/&gt;Speed 162.07km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.6258218,48.0556531,917.373291015625</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #40</name>
+        <description>&lt;br/&gt;Altitude 931.5m&lt;br/&gt;Speed 163.66km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.6200396,48.0534765,931.497802734375</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #41</name>
+        <description>&lt;br/&gt;Altitude 940.4m&lt;br/&gt;Speed 173.56km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.609208,48.0498467,940.39892578125</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #42</name>
+        <description>&lt;br/&gt;Altitude 938.5m&lt;br/&gt;Speed 183.53km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.6030547,48.0480275,938.53369140625</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #43</name>
+        <description>&lt;br/&gt;Altitude 950.3m&lt;br/&gt;Speed 193.28km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.5906931,48.0434958,950.2972412109375</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #44</name>
+        <description>&lt;br/&gt;Altitude 961.6m&lt;br/&gt;Speed 184.50km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.5846485,48.0410742,961.6087646484375</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #45</name>
+        <description>&lt;br/&gt;Altitude 949.8m&lt;br/&gt;Speed 178.34km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.5779679,48.0392755,949.8408203125</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #46</name>
+        <description>&lt;br/&gt;Altitude 949.8m&lt;br/&gt;Speed 182.02km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.5714232,48.0377613,949.80517578125</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #47</name>
+        <description>&lt;br/&gt;Altitude 944.1m&lt;br/&gt;Speed 178.81km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.5588308,48.0348263,944.06884765625</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #48</name>
+        <description>&lt;br/&gt;Altitude 944.5m&lt;br/&gt;Speed 181.62km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.5521504,48.03352,944.456787109375</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #49</name>
+        <description>&lt;br/&gt;Altitude 904.1m&lt;br/&gt;Speed 176.54km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.5396015,48.0308489,904.116943359375</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #50</name>
+        <description>&lt;br/&gt;Altitude 895.1m&lt;br/&gt;Speed 167.69km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.5331376,48.0300571,895.13427734375</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #51</name>
+        <description>&lt;br/&gt;Altitude 894.2m&lt;br/&gt;Speed 173.41km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.5209385,48.0297466,894.232421875</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #52</name>
+        <description>&lt;br/&gt;Altitude 907.8m&lt;br/&gt;Speed 168.48km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.5143994,48.029711,907.76171875</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #53</name>
+        <description>&lt;br/&gt;Altitude 914.1m&lt;br/&gt;Speed 165.17km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.502128,48.0314098,914.0865478515625</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #54</name>
+        <description>&lt;br/&gt;Altitude 873.3m&lt;br/&gt;Speed 162.50km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.4911788,48.0337147,873.272705078125</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #55</name>
+        <description>&lt;br/&gt;Altitude 898.2m&lt;br/&gt;Speed 164.09km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.4854673,48.0347938,898.2491455078125</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #56</name>
+        <description>&lt;br/&gt;Altitude 906.5m&lt;br/&gt;Speed 158.18km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.4799401,48.0360883,906.544677734375</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #57</name>
+        <description>&lt;br/&gt;Altitude 907.9m&lt;br/&gt;Speed 151.81km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.4685312,48.0393497,907.9320068359375</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #58</name>
+        <description>&lt;br/&gt;Altitude 888.8m&lt;br/&gt;Speed 153.47km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.46339,48.0408727,888.822021484375</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #59</name>
+        <description>&lt;br/&gt;Altitude 901.8m&lt;br/&gt;Speed 154.55km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.4582956,48.0427516,901.78369140625</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #60</name>
+        <description>&lt;br/&gt;Altitude 869.1m&lt;br/&gt;Speed 159.48km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.4478333,48.0459957,869.0579833984375</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #61</name>
+        <description>&lt;br/&gt;Altitude 889.6m&lt;br/&gt;Speed 160.02km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.4424923,48.0477569,889.6392822265625</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #62</name>
+        <description>&lt;br/&gt;Altitude 895.9m&lt;br/&gt;Speed 151.16km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.4313319,48.0514642,895.9488525390625</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #63</name>
+        <description>&lt;br/&gt;Altitude 873.4m&lt;br/&gt;Speed 164.66km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.4212359,48.0546638,873.35693359375</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #64</name>
+        <description>&lt;br/&gt;Altitude 923.9m&lt;br/&gt;Speed 154.30km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.4096898,48.0564357,923.9443359375</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #65</name>
+        <description>&lt;br/&gt;Altitude 914.2m&lt;br/&gt;Speed 161.50km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.3983381,48.0575702,914.24169921875</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #66</name>
+        <description>&lt;br/&gt;Altitude 926.4m&lt;br/&gt;Speed 160.85km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.3924525,48.0578471,926.41796875</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #67</name>
+        <description>&lt;br/&gt;Altitude 938.3m&lt;br/&gt;Speed 167.58km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.3863054,48.0574959,938.306396484375</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #68</name>
+        <description>&lt;br/&gt;Altitude 935.6m&lt;br/&gt;Speed 175.32km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.3743701,48.0559408,935.631103515625</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #69</name>
+        <description>&lt;br/&gt;Altitude 946.1m&lt;br/&gt;Speed 181.80km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.3670704,48.0550029,946.079345703125</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #70</name>
+        <description>&lt;br/&gt;Altitude 943.9m&lt;br/&gt;Speed 174.53km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.3606396,48.0539026,943.918701171875</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #71</name>
+        <description>&lt;br/&gt;Altitude 930.5m&lt;br/&gt;Speed 182.81km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.3474319,48.0524251,930.4725341796875</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #72</name>
+        <description>&lt;br/&gt;Altitude 932.2m&lt;br/&gt;Speed 188.24km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.3353255,48.0505302,932.248779296875</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #73</name>
+        <description>&lt;br/&gt;Altitude 936.5m&lt;br/&gt;Speed 190.33km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.328021,48.0482755,936.531494140625</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #74</name>
+        <description>&lt;br/&gt;Altitude 942.1m&lt;br/&gt;Speed 188.57km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.3156709,48.0438964,942.1171875</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #75</name>
+        <description>&lt;br/&gt;Altitude 954.6m&lt;br/&gt;Speed 186.98km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.3091609,48.0418298,954.56640625</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #76</name>
+        <description>&lt;br/&gt;Altitude 946.6m&lt;br/&gt;Speed 182.02km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.2969203,48.0390046,946.592529296875</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #77</name>
+        <description>&lt;br/&gt;Altitude 940.3m&lt;br/&gt;Speed 186.59km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.2901453,48.0376862,940.2943115234375</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #78</name>
+        <description>&lt;br/&gt;Altitude 929.1m&lt;br/&gt;Speed 183.85km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.2837284,48.0364495,929.1318359375</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #79</name>
+        <description>&lt;br/&gt;Altitude 941.4m&lt;br/&gt;Speed 180.50km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.2765862,48.0350284,941.395263671875</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #80</name>
+        <description>&lt;br/&gt;Altitude 934.6m&lt;br/&gt;Speed 184.14km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.2634625,48.0322175,934.6231689453125</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #81</name>
+        <description>&lt;br/&gt;Altitude 959.1m&lt;br/&gt;Speed 181.91km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.2513892,48.0287461,959.0625</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #82</name>
+        <description>&lt;br/&gt;Altitude 955.3m&lt;br/&gt;Speed 179.10km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.2447684,48.0279689,955.30029296875</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #83</name>
+        <description>&lt;br/&gt;Altitude 948.2m&lt;br/&gt;Speed 178.13km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.2374217,48.0274135,948.161865234375</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #84</name>
+        <description>&lt;br/&gt;Altitude 919.0m&lt;br/&gt;Speed 178.27km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.2306885,48.0267542,918.98779296875</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #85</name>
+        <description>&lt;br/&gt;Altitude 931.9m&lt;br/&gt;Speed 175.54km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.2180373,48.0252792,931.93359375</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #86</name>
+        <description>&lt;br/&gt;Altitude 930.4m&lt;br/&gt;Speed 179.57km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.2052763,48.0243423,930.4337158203125</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #87</name>
+        <description>&lt;br/&gt;Altitude 889.2m&lt;br/&gt;Speed 199.62km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.1912618,48.0222298,889.1761474609375</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #88</name>
+        <description>&lt;br/&gt;Altitude 880.1m&lt;br/&gt;Speed 185.33km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.1843157,48.0209777,880.14208984375</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #89</name>
+        <description>&lt;br/&gt;Altitude 857.0m&lt;br/&gt;Speed 174.24km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.1711293,48.0195104,857.038330078125</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #90</name>
+        <description>&lt;br/&gt;Altitude 878.3m&lt;br/&gt;Speed 172.04km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.1648487,48.0187904,878.274169921875</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #91</name>
+        <description>&lt;br/&gt;Altitude 882.0m&lt;br/&gt;Speed 169.31km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.1532253,48.0175963,881.950927734375</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #92</name>
+        <description>&lt;br/&gt;Altitude 873.0m&lt;br/&gt;Speed 165.20km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.1466154,48.0170218,873.0443115234375</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #93</name>
+        <description>&lt;br/&gt;Altitude 880.4m&lt;br/&gt;Speed 166.90km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.1348543,48.015985,880.358642578125</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #94</name>
+        <description>&lt;br/&gt;Altitude 883.0m&lt;br/&gt;Speed 163.40km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.1280178,48.0160233,882.9951171875</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #95</name>
+        <description>&lt;br/&gt;Altitude 903.1m&lt;br/&gt;Speed 167.58km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.1164484,48.0167281,903.05712890625</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #96</name>
+        <description>&lt;br/&gt;Altitude 888.7m&lt;br/&gt;Speed 168.52km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.1103137,48.0169694,888.695068359375</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #97</name>
+        <description>&lt;br/&gt;Altitude 906.6m&lt;br/&gt;Speed 168.41km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.1039872,48.0167005,906.570068359375</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #98</name>
+        <description>&lt;br/&gt;Altitude 900.8m&lt;br/&gt;Speed 171.14km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.0977045,48.0164175,900.796630859375</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #99</name>
+        <description>&lt;br/&gt;Altitude 913.6m&lt;br/&gt;Speed 172.01km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.0914948,48.0168613,913.6083984375</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #100</name>
+        <description>&lt;br/&gt;Altitude 901.6m&lt;br/&gt;Speed 168.95km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.0851609,48.016901,901.55078125</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #101</name>
+        <description>&lt;br/&gt;Altitude 904.4m&lt;br/&gt;Speed 167.69km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.0789621,48.0165513,904.35693359375</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #102</name>
+        <description>&lt;br/&gt;Altitude 899.1m&lt;br/&gt;Speed 166.97km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.0654327,48.0164017,899.14697265625</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #103</name>
+        <description>&lt;br/&gt;Altitude 896.4m&lt;br/&gt;Speed 170.75km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.0535114,48.0155166,896.419677734375</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #104</name>
+        <description>&lt;br/&gt;Altitude 902.1m&lt;br/&gt;Speed 165.96km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.0410663,48.0149337,902.051513671875</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #105</name>
+        <description>&lt;br/&gt;Altitude 875.5m&lt;br/&gt;Speed 169.56km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.0288435,48.0156801,875.541259765625</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #106</name>
+        <description>&lt;br/&gt;Altitude 885.6m&lt;br/&gt;Speed 169.27km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.0224292,48.0163153,885.5841064453125</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #107</name>
+        <description>&lt;br/&gt;Altitude 867.5m&lt;br/&gt;Speed 168.98km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.010045,48.0173895,867.521484375</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #108</name>
+        <description>&lt;br/&gt;Altitude 877.9m&lt;br/&gt;Speed 171.14km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.0035366,48.0180595,877.9224853515625</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #109</name>
+        <description>&lt;br/&gt;Altitude 875.1m&lt;br/&gt;Speed 172.69km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-0.9966792,48.0184204,875.12890625</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #110</name>
+        <description>&lt;br/&gt;Altitude 875.7m&lt;br/&gt;Speed 174.28km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-0.9834563,48.018932,875.674560546875</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #111</name>
+        <description>&lt;br/&gt;Altitude 863.0m&lt;br/&gt;Speed 182.23km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-0.971095,48.0189136,862.95947265625</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #112</name>
+        <description>&lt;br/&gt;Altitude 871.9m&lt;br/&gt;Speed 182.34km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-0.9642247,48.0186328,871.8837890625</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #113</name>
+        <description>&lt;br/&gt;Altitude 852.8m&lt;br/&gt;Speed 182.95km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-0.9567739,48.0180995,852.80029296875</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #114</name>
+        <description>&lt;br/&gt;Altitude 852.1m&lt;br/&gt;Speed 169.24km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-0.9442155,48.0178552,852.06005859375</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #115</name>
+        <description>&lt;br/&gt;Altitude 870.0m&lt;br/&gt;Speed 172.58km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-0.9376582,48.0177934,869.97998046875</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #116</name>
+        <description>&lt;br/&gt;Altitude 883.1m&lt;br/&gt;Speed 166.79km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-0.9307485,48.0177263,883.135986328125</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #117</name>
+        <description>&lt;br/&gt;Altitude 881.0m&lt;br/&gt;Speed 172.66km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-0.9181136,48.0173329,881.02099609375</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #118</name>
+        <description>&lt;br/&gt;Altitude 887.8m&lt;br/&gt;Speed 174.06km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-0.9119326,48.0173134,887.786376953125</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #119</name>
+        <description>&lt;br/&gt;Altitude 891.6m&lt;br/&gt;Speed 170.35km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-0.8993849,48.0178306,891.5782470703125</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #120</name>
+        <description>&lt;br/&gt;Altitude 862.3m&lt;br/&gt;Speed 178.56km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-0.892465,48.0183005,862.267822265625</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #121</name>
+        <description>&lt;br/&gt;Altitude 842.9m&lt;br/&gt;Speed 180.79km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-0.8796972,48.0179501,842.9210205078125</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #122</name>
+        <description>&lt;br/&gt;Altitude 834.7m&lt;br/&gt;Speed 178.34km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-0.8724963,48.0173269,834.6978759765625</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #123</name>
+        <description>&lt;br/&gt;Altitude 818.9m&lt;br/&gt;Speed 175.14km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-0.8602737,48.0164176,818.891845703125</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #124</name>
+        <description>&lt;br/&gt;Altitude 771.9m&lt;br/&gt;Speed 180.58km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-0.8471494,48.0152899,771.9266357421875</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #125</name>
+        <description>&lt;br/&gt;Altitude 717.6m&lt;br/&gt;Speed 184.72km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-0.8340292,48.0145817,717.58056640625</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #126</name>
+        <description>&lt;br/&gt;Altitude 657.2m&lt;br/&gt;Speed 179.75km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-0.8272098,48.0139742,657.227783203125</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #127</name>
+        <description>&lt;br/&gt;Altitude 647.5m&lt;br/&gt;Speed 187.78km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-0.820341,48.0137864,647.485107421875</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #128</name>
+        <description>&lt;br/&gt;Altitude 574.8m&lt;br/&gt;Speed 184.36km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-0.8135731,48.0135553,574.758056640625</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #129</name>
+        <description>&lt;br/&gt;Altitude 538.9m&lt;br/&gt;Speed 189.00km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-0.8060317,48.0137121,538.8612060546875</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #130</name>
+        <description>&lt;br/&gt;Altitude 456.6m&lt;br/&gt;Speed 191.63km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-0.792198,48.0138258,456.6195068359375</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #131</name>
+        <description>&lt;br/&gt;Altitude 458.4m&lt;br/&gt;Speed 179.96km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-0.7852821,48.0123637,458.3505859375</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #132</name>
+        <description>&lt;br/&gt;Altitude 398.2m&lt;br/&gt;Speed 171.43km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-0.7740451,48.0085934,398.238525390625</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #133</name>
+        <description>&lt;br/&gt;Altitude 401.5m&lt;br/&gt;Speed 176.69km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-0.7682025,48.0057847,401.4970703125</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #134</name>
+        <description>&lt;br/&gt;Altitude 412.9m&lt;br/&gt;Speed 174.53km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-0.7594681,48.0001374,412.93902587890625</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #135</name>
+        <description>&lt;br/&gt;Altitude 419.7m&lt;br/&gt;Speed 173.05km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-0.7551017,47.9970056,419.6541748046875</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #136</name>
+        <description>&lt;br/&gt;Altitude 453.7m&lt;br/&gt;Speed 172.48km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-0.750453,47.9940205,453.7392578125</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #137</name>
+        <description>&lt;br/&gt;Altitude 439.3m&lt;br/&gt;Speed 163.37km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-0.7444103,47.9921336,439.305419921875</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #138</name>
+        <description>&lt;br/&gt;Altitude 416.3m&lt;br/&gt;Speed 144.29km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-0.7349108,47.995545,416.296630859375</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #139</name>
+        <description>&lt;br/&gt;Altitude 403.9m&lt;br/&gt;Speed 141.88km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-0.7308356,47.9976698,403.88226318359375</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #140</name>
+        <description>&lt;br/&gt;Altitude 394.8m&lt;br/&gt;Speed 144.50km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-0.726457,48.0000499,394.751708984375</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #141</name>
+        <description>&lt;br/&gt;Altitude 343.6m&lt;br/&gt;Speed 144.58km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-0.7201917,48.0051282,343.5831298828125</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #142</name>
+        <description>&lt;br/&gt;Altitude 296.6m&lt;br/&gt;Speed 151.13km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-0.7186936,48.0085782,296.58880615234375</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #143</name>
+        <description>&lt;br/&gt;Altitude 264.6m&lt;br/&gt;Speed 164.23km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-0.7210516,48.012085,264.57379150390625</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #144</name>
+        <description>&lt;br/&gt;Altitude 234.0m&lt;br/&gt;Speed 146.66km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-0.7249696,48.0156753,233.985107421875</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #145</name>
+        <description>&lt;br/&gt;Altitude 202.4m&lt;br/&gt;Speed 136.48km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-0.7309863,48.0209212,202.39642333984375</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #146</name>
+        <description>&lt;br/&gt;Altitude 185.6m&lt;br/&gt;Speed 134.32km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-0.7339883,48.023555,185.5701904296875</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #147</name>
+        <description>&lt;br/&gt;Altitude 157.9m&lt;br/&gt;Speed 138.92km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-0.737058,48.0264189,157.873046875</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #148</name>
+        <description>&lt;br/&gt;Altitude 147.2m&lt;br/&gt;Speed 120.13km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-0.7403393,48.0291099,147.21014404296875</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #149</name>
+        <description>&lt;br/&gt;Altitude 136.0m&lt;br/&gt;Speed 93.92km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-0.7427163,48.0311729,135.97528076171875</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #150</name>
+        <description>&lt;br/&gt;Altitude 188.7m&lt;br/&gt;Speed 138.46km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-0.7482563,48.0360687,188.7440185546875</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #151</name>
+        <description>&lt;br/&gt;Altitude 235.7m&lt;br/&gt;Speed 136.30km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-0.7543878,48.0411212,235.732421875</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #152</name>
+        <description>&lt;br/&gt;Altitude 269.4m&lt;br/&gt;Speed 131.11km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-0.7581103,48.0436158,269.363525390625</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #153</name>
+        <description>&lt;br/&gt;Altitude 302.8m&lt;br/&gt;Speed 137.59km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-0.7619079,48.0456746,302.84820556640625</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #154</name>
+        <description>&lt;br/&gt;Altitude 339.8m&lt;br/&gt;Speed 152.50km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-0.7672735,48.0464654,339.7845458984375</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #155</name>
+        <description>&lt;br/&gt;Altitude 390.5m&lt;br/&gt;Speed 179.46km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-0.77364,48.0454281,390.4970703125</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #156</name>
+        <description>&lt;br/&gt;Altitude 416.4m&lt;br/&gt;Speed 198.43km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-0.7851239,48.039601,416.439697265625</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #157</name>
+        <description>&lt;br/&gt;Altitude 422.5m&lt;br/&gt;Speed 207.65km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-0.7897124,48.0356177,422.537109375</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #158</name>
+        <description>&lt;br/&gt;Altitude 415.0m&lt;br/&gt;Speed 197.06km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-0.7904328,48.0260788,415.0341796875</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #159</name>
+        <description>&lt;br/&gt;Altitude 415.2m&lt;br/&gt;Speed 183.96km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-0.7856584,48.0225546,415.240966796875</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #160</name>
+        <description>&lt;br/&gt;Altitude 425.3m&lt;br/&gt;Speed 166.46km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-0.7811368,48.0194591,425.27716064453125</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #161</name>
+        <description>&lt;br/&gt;Altitude 418.4m&lt;br/&gt;Speed 166.75km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-0.7734096,48.0137482,418.3905029296875</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #162</name>
+        <description>&lt;br/&gt;Altitude 412.5m&lt;br/&gt;Speed 163.48km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-0.7692138,48.0102738,412.47930908203125</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #163</name>
+        <description>&lt;br/&gt;Altitude 434.8m&lt;br/&gt;Speed 166.79km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-0.7611444,48.004679,434.8126220703125</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #164</name>
+        <description>&lt;br/&gt;Altitude 405.6m&lt;br/&gt;Speed 146.70km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-0.7571538,48.0019225,405.5994873046875</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #165</name>
+        <description>&lt;br/&gt;Altitude 421.7m&lt;br/&gt;Speed 162.68km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-0.7519992,47.9992226,421.70306396484375</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #166</name>
+        <description>&lt;br/&gt;Altitude 396.7m&lt;br/&gt;Speed 145.84km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-0.7415186,47.9960955,396.660400390625</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #167</name>
+        <description>&lt;br/&gt;Altitude 420.3m&lt;br/&gt;Speed 138.31km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-0.7366471,47.9972447,420.277587890625</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #168</name>
+        <description>&lt;br/&gt;Altitude 400.4m&lt;br/&gt;Speed 150.19km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-0.7281755,48.0008692,400.4034423828125</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #169</name>
+        <description>&lt;br/&gt;Altitude 362.9m&lt;br/&gt;Speed 140.90km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-0.723968,48.0036245,362.943115234375</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #170</name>
+        <description>&lt;br/&gt;Altitude 349.7m&lt;br/&gt;Speed 134.14km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-0.7206006,48.0062257,349.67657470703125</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #171</name>
+        <description>&lt;br/&gt;Altitude 292.9m&lt;br/&gt;Speed 155.30km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-0.7219401,48.0130317,292.90924072265625</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #172</name>
+        <description>&lt;br/&gt;Altitude 237.7m&lt;br/&gt;Speed 145.51km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-0.7287765,48.0190597,237.7420654296875</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #173</name>
+        <description>&lt;br/&gt;Altitude 210.6m&lt;br/&gt;Speed 139.61km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-0.7322406,48.0221442,210.5712890625</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #174</name>
+        <description>&lt;br/&gt;Altitude 185.1m&lt;br/&gt;Speed 143.89km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-0.7353371,48.0248931,185.1368408203125</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #175</name>
+        <description>&lt;br/&gt;Altitude 148.1m&lt;br/&gt;Speed 107.32km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-0.7409523,48.0298105,148.135009765625</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #176</name>
+        <description>&lt;br/&gt;Altitude 157.2m&lt;br/&gt;Speed 87.59km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-0.7431102,48.0315845,157.18707275390625</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #177</name>
+        <description>&lt;br/&gt;Altitude 146.7m&lt;br/&gt;Speed 125.46km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-0.7456797,48.0337668,146.7188720703125</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #178</name>
+        <description>&lt;br/&gt;Altitude 168.4m&lt;br/&gt;Speed 141.12km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-0.7488407,48.0365576,168.3804931640625</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #179</name>
+        <description>&lt;br/&gt;Altitude 213.5m&lt;br/&gt;Speed 133.81km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-0.7523681,48.0394713,213.47998046875</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #180</name>
+        <description>&lt;br/&gt;Altitude 262.7m&lt;br/&gt;Speed 156.60km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-0.7603051,48.0445406,262.69970703125</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #181</name>
+        <description>&lt;br/&gt;Altitude 334.6m&lt;br/&gt;Speed 184.57km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-0.7724035,48.0461883,334.5667724609375</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #182</name>
+        <description>&lt;br/&gt;Altitude 389.6m&lt;br/&gt;Speed 182.88km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-0.7852603,48.044903,389.58306884765625</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #183</name>
+        <description>&lt;br/&gt;Altitude 436.1m&lt;br/&gt;Speed 176.04km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-0.7918175,48.0445818,436.13507080078125</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #184</name>
+        <description>&lt;br/&gt;Altitude 481.7m&lt;br/&gt;Speed 183.42km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-0.7985311,48.0442504,481.7427978515625</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #185</name>
+        <description>&lt;br/&gt;Altitude 495.4m&lt;br/&gt;Speed 188.03km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-0.8054651,48.0439571,495.39300537109375</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #186</name>
+        <description>&lt;br/&gt;Altitude 530.9m&lt;br/&gt;Speed 182.70km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-0.8123928,48.0436592,530.86279296875</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #187</name>
+        <description>&lt;br/&gt;Altitude 559.5m&lt;br/&gt;Speed 188.46km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-0.819168,48.0434694,559.5045166015625</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #188</name>
+        <description>&lt;br/&gt;Altitude 569.0m&lt;br/&gt;Speed 183.74km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-0.8261344,48.0431896,569.009765625</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #189</name>
+        <description>&lt;br/&gt;Altitude 600.8m&lt;br/&gt;Speed 187.13km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-0.8331701,48.0428362,600.787841796875</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #190</name>
+        <description>&lt;br/&gt;Altitude 611.7m&lt;br/&gt;Speed 192.71km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-0.8401929,48.0423157,611.682861328125</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #191</name>
+        <description>&lt;br/&gt;Altitude 642.0m&lt;br/&gt;Speed 200.16km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-0.8476674,48.0421211,641.95166015625</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #192</name>
+        <description>&lt;br/&gt;Altitude 664.4m&lt;br/&gt;Speed 195.70km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-0.8556202,48.0417721,664.4404296875</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #193</name>
+        <description>&lt;br/&gt;Altitude 708.1m&lt;br/&gt;Speed 198.11km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-0.8693613,48.0415325,708.05517578125</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #194</name>
+        <description>&lt;br/&gt;Altitude 747.2m&lt;br/&gt;Speed 192.49km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-0.876762,48.0412686,747.1529541015625</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #195</name>
+        <description>&lt;br/&gt;Altitude 759.7m&lt;br/&gt;Speed 198.72km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-0.8840342,48.0408208,759.672119140625</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #196</name>
+        <description>&lt;br/&gt;Altitude 766.8m&lt;br/&gt;Speed 203.94km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-0.8916715,48.0403971,766.81103515625</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #197</name>
+        <description>&lt;br/&gt;Altitude 812.2m&lt;br/&gt;Speed 203.58km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-0.8998804,48.0395907,812.2493896484375</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #198</name>
+        <description>&lt;br/&gt;Altitude 831.0m&lt;br/&gt;Speed 208.80km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-0.9141229,48.0374528,830.9779052734375</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #199</name>
+        <description>&lt;br/&gt;Altitude 874.9m&lt;br/&gt;Speed 203.54km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-0.9222016,48.0360257,874.910888671875</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #200</name>
+        <description>&lt;br/&gt;Altitude 888.5m&lt;br/&gt;Speed 213.91km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-0.9293239,48.0340004,888.46240234375</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #201</name>
+        <description>&lt;br/&gt;Altitude 939.4m&lt;br/&gt;Speed 212.22km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-0.9434299,48.0297617,939.369384765625</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #202</name>
+        <description>&lt;br/&gt;Altitude 950.7m&lt;br/&gt;Speed 221.80km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-0.9507947,48.027771,950.748046875</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #203</name>
+        <description>&lt;br/&gt;Altitude 963.6m&lt;br/&gt;Speed 221.76km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-0.9587625,48.0259192,963.596923828125</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #204</name>
+        <description>&lt;br/&gt;Altitude 981.2m&lt;br/&gt;Speed 223.85km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-0.966488,48.0244072,981.2252197265625</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #205</name>
+        <description>&lt;br/&gt;Altitude 1009.7m&lt;br/&gt;Speed 228.78km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-0.9755162,48.0228264,1009.7481689453125</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #206</name>
+        <description>&lt;br/&gt;Altitude 982.9m&lt;br/&gt;Speed 225.25km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-0.9912743,48.0222122,982.9208984375</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #207</name>
+        <description>&lt;br/&gt;Altitude 992.4m&lt;br/&gt;Speed 229.14km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.0003815,48.0228802,992.41748046875</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #208</name>
+        <description>&lt;br/&gt;Altitude 978.9m&lt;br/&gt;Speed 230.87km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.0165205,48.0241212,978.854248046875</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #209</name>
+        <description>&lt;br/&gt;Altitude 994.5m&lt;br/&gt;Speed 234.07km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.0256781,48.0230423,994.5396728515625</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #210</name>
+        <description>&lt;br/&gt;Altitude 976.8m&lt;br/&gt;Speed 227.66km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.0418167,48.022985,976.8057861328125</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #211</name>
+        <description>&lt;br/&gt;Altitude 959.2m&lt;br/&gt;Speed 222.08km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.0499059,48.0242221,959.16650390625</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #212</name>
+        <description>&lt;br/&gt;Altitude 931.1m&lt;br/&gt;Speed 227.23km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.057911,48.0256816,931.06103515625</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #213</name>
+        <description>&lt;br/&gt;Altitude 931.7m&lt;br/&gt;Speed 220.21km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.0659577,48.0274302,931.6663818359375</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #214</name>
+        <description>&lt;br/&gt;Altitude 924.5m&lt;br/&gt;Speed 217.30km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.0744475,48.0293608,924.477783203125</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #215</name>
+        <description>&lt;br/&gt;Altitude 921.0m&lt;br/&gt;Speed 214.67km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.0819278,48.031423,920.970458984375</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #216</name>
+        <description>&lt;br/&gt;Altitude 893.2m&lt;br/&gt;Speed 224.57km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.0966583,48.0348819,893.19580078125</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #217</name>
+        <description>&lt;br/&gt;Altitude 867.1m&lt;br/&gt;Speed 227.56km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.1050214,48.0361976,867.1148681640625</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #218</name>
+        <description>&lt;br/&gt;Altitude 883.5m&lt;br/&gt;Speed 217.51km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.113668,48.0375185,883.488037109375</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #219</name>
+        <description>&lt;br/&gt;Altitude 878.2m&lt;br/&gt;Speed 222.95km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.1223346,48.0389036,878.192138671875</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #220</name>
+        <description>&lt;br/&gt;Altitude 864.7m&lt;br/&gt;Speed 223.31km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.1374576,48.0406692,864.743896484375</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #221</name>
+        <description>&lt;br/&gt;Altitude 852.6m&lt;br/&gt;Speed 225.11km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.1459379,48.0410654,852.6204833984375</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #222</name>
+        <description>&lt;br/&gt;Altitude 844.5m&lt;br/&gt;Speed 221.44km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.1544377,48.0415458,844.5396728515625</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #223</name>
+        <description>&lt;br/&gt;Altitude 861.5m&lt;br/&gt;Speed 222.55km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.1624536,48.0420992,861.533447265625</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #224</name>
+        <description>&lt;br/&gt;Altitude 827.6m&lt;br/&gt;Speed 216.11km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.1712967,48.04274,827.5501708984375</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #225</name>
+        <description>&lt;br/&gt;Altitude 823.3m&lt;br/&gt;Speed 211.54km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.1878221,48.0436061,823.2686767578125</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #226</name>
+        <description>&lt;br/&gt;Altitude 799.4m&lt;br/&gt;Speed 216.47km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.2032652,48.044762,799.3636474609375</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #227</name>
+        <description>&lt;br/&gt;Altitude 755.3m&lt;br/&gt;Speed 231.55km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.211799,48.0457008,755.296142578125</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #228</name>
+        <description>&lt;br/&gt;Altitude 757.5m&lt;br/&gt;Speed 225.94km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.2200487,48.0468514,757.500732421875</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #229</name>
+        <description>&lt;br/&gt;Altitude 720.2m&lt;br/&gt;Speed 231.88km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.2285824,48.0475972,720.220703125</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #230</name>
+        <description>&lt;br/&gt;Altitude 661.0m&lt;br/&gt;Speed 213.01km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.2367126,48.048988,661.04345703125</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #231</name>
+        <description>&lt;br/&gt;Altitude 658.1m&lt;br/&gt;Speed 214.96km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.2515545,48.0514708,658.1397705078125</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #232</name>
+        <description>&lt;br/&gt;Altitude 658.1m&lt;br/&gt;Speed 208.37km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.2664589,48.0518996,658.0673828125</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #233</name>
+        <description>&lt;br/&gt;Altitude 663.3m&lt;br/&gt;Speed 202.43km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.2750425,48.0519286,663.26220703125</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #234</name>
+        <description>&lt;br/&gt;Altitude 643.1m&lt;br/&gt;Speed 204.48km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.289581,48.0517128,643.114013671875</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #235</name>
+        <description>&lt;br/&gt;Altitude 649.1m&lt;br/&gt;Speed 207.32km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.2972142,48.0519826,649.053466796875</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #236</name>
+        <description>&lt;br/&gt;Altitude 661.2m&lt;br/&gt;Speed 195.05km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.3055302,48.0521606,661.1768798828125</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #237</name>
+        <description>&lt;br/&gt;Altitude 625.6m&lt;br/&gt;Speed 188.89km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.3127752,48.0523451,625.586181640625</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #238</name>
+        <description>&lt;br/&gt;Altitude 572.4m&lt;br/&gt;Speed 188.24km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.3197926,48.0523935,572.3861083984375</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #239</name>
+        <description>&lt;br/&gt;Altitude 460.7m&lt;br/&gt;Speed 151.45km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.332449,48.0542697,460.74359130859375</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #240</name>
+        <description>&lt;br/&gt;Altitude 418.7m&lt;br/&gt;Speed 150.88km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.3367049,48.0566599,418.7098388671875</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #241</name>
+        <description>&lt;br/&gt;Altitude 392.6m&lt;br/&gt;Speed 144.54km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.3383406,48.0603533,392.55487060546875</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #242</name>
+        <description>&lt;br/&gt;Altitude 315.7m&lt;br/&gt;Speed 144.68km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.3383452,48.0639364,315.69580078125</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #243</name>
+        <description>&lt;br/&gt;Altitude 230.6m&lt;br/&gt;Speed 131.69km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.3387675,48.0704542,230.598876953125</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #244</name>
+        <description>&lt;br/&gt;Altitude 245.9m&lt;br/&gt;Speed 128.09km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.3394844,48.0738119,245.94866943359375</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #245</name>
+        <description>&lt;br/&gt;Altitude 266.5m&lt;br/&gt;Speed 126.00km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.3408389,48.0770237,266.51275634765625</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #246</name>
+        <description>&lt;br/&gt;Altitude 312.1m&lt;br/&gt;Speed 158.36km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.3500271,48.0795677,312.099609375</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #247</name>
+        <description>&lt;br/&gt;Altitude 333.3m&lt;br/&gt;Speed 171.43km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.3560694,48.0785721,333.34002685546875</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #248</name>
+        <description>&lt;br/&gt;Altitude 373.1m&lt;br/&gt;Speed 181.04km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.3620049,48.0759268,373.068359375</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #249</name>
+        <description>&lt;br/&gt;Altitude 393.7m&lt;br/&gt;Speed 171.00km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.3644984,48.0718422,393.6533203125</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #250</name>
+        <description>&lt;br/&gt;Altitude 416.8m&lt;br/&gt;Speed 181.69km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.3647716,48.0675766,416.8194580078125</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #251</name>
+        <description>&lt;br/&gt;Altitude 487.4m&lt;br/&gt;Speed 176.87km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.3639981,48.0587654,487.41326904296875</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #252</name>
+        <description>&lt;br/&gt;Altitude 501.5m&lt;br/&gt;Speed 204.26km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.3626832,48.0488475,501.50830078125</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #253</name>
+        <description>&lt;br/&gt;Altitude 492.9m&lt;br/&gt;Speed 189.79km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.3745836,48.0454906,492.876220703125</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #254</name>
+        <description>&lt;br/&gt;Altitude 484.2m&lt;br/&gt;Speed 208.48km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.3889504,48.0457456,484.2210693359375</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #255</name>
+        <description>&lt;br/&gt;Altitude 519.2m&lt;br/&gt;Speed 167.90km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.3965906,48.0455397,519.2403564453125</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #256</name>
+        <description>&lt;br/&gt;Altitude 482.9m&lt;br/&gt;Speed 149.65km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.4024453,48.0453777,482.895751953125</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #257</name>
+        <description>&lt;br/&gt;Altitude 362.5m&lt;br/&gt;Speed 145.19km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.4127312,48.0484858,362.46630859375</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #258</name>
+        <description>&lt;br/&gt;Altitude 291.6m&lt;br/&gt;Speed 134.39km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.4096232,48.054301,291.55804443359375</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #259</name>
+        <description>&lt;br/&gt;Altitude 246.0m&lt;br/&gt;Speed 134.89km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.4090621,48.0606361,246.0283203125</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #260</name>
+        <description>&lt;br/&gt;Altitude 260.6m&lt;br/&gt;Speed 133.99km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.4132433,48.0629356,260.5849609375</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #261</name>
+        <description>&lt;br/&gt;Altitude 353.9m&lt;br/&gt;Speed 167.18km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.424685,48.0615717,353.91656494140625</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #262</name>
+        <description>&lt;br/&gt;Altitude 375.8m&lt;br/&gt;Speed 185.40km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.4300204,48.0588614,375.7763671875</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #263</name>
+        <description>&lt;br/&gt;Altitude 403.4m&lt;br/&gt;Speed 183.28km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.4331706,48.0505911,403.40606689453125</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #264</name>
+        <description>&lt;br/&gt;Altitude 495.9m&lt;br/&gt;Speed 164.59km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.4295135,48.0466142,495.9354248046875</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #265</name>
+        <description>&lt;br/&gt;Altitude 558.3m&lt;br/&gt;Speed 145.87km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.4198085,48.0439468,558.288330078125</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #266</name>
+        <description>&lt;br/&gt;Altitude 611.4m&lt;br/&gt;Speed 138.06km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.4143956,48.0490385,611.390380859375</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #267</name>
+        <description>&lt;br/&gt;Altitude 593.3m&lt;br/&gt;Speed 141.77km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.4169838,48.0524328,593.2744140625</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #268</name>
+        <description>&lt;br/&gt;Altitude 678.1m&lt;br/&gt;Speed 205.38km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.4261036,48.051025,678.122314453125</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #269</name>
+        <description>&lt;br/&gt;Altitude 663.1m&lt;br/&gt;Speed 213.95km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.4402754,48.0494497,663.072265625</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #270</name>
+        <description>&lt;br/&gt;Altitude 669.5m&lt;br/&gt;Speed 214.06km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.4486405,48.0492284,669.5302734375</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #271</name>
+        <description>&lt;br/&gt;Altitude 646.1m&lt;br/&gt;Speed 222.73km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.4653412,48.049265,646.131103515625</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #272</name>
+        <description>&lt;br/&gt;Altitude 632.4m&lt;br/&gt;Speed 222.80km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.4736989,48.049295,632.360107421875</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #273</name>
+        <description>&lt;br/&gt;Altitude 649.4m&lt;br/&gt;Speed 212.87km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.4817937,48.0494253,649.40380859375</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #274</name>
+        <description>&lt;br/&gt;Altitude 642.5m&lt;br/&gt;Speed 225.86km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.498003,48.0497128,642.49560546875</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #275</name>
+        <description>&lt;br/&gt;Altitude 626.5m&lt;br/&gt;Speed 215.32km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.5135113,48.0503171,626.46435546875</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #276</name>
+        <description>&lt;br/&gt;Altitude 618.7m&lt;br/&gt;Speed 218.05km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.5214424,48.0504076,618.731689453125</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #277</name>
+        <description>&lt;br/&gt;Altitude 625.4m&lt;br/&gt;Speed 217.37km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.5294835,48.0505389,625.38134765625</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #278</name>
+        <description>&lt;br/&gt;Altitude 601.8m&lt;br/&gt;Speed 218.45km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.537921,48.0504469,601.8193359375</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #279</name>
+        <description>&lt;br/&gt;Altitude 596.1m&lt;br/&gt;Speed 212.76km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.5458728,48.0504255,596.06298828125</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #280</name>
+        <description>&lt;br/&gt;Altitude 557.4m&lt;br/&gt;Speed 216.83km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.5537682,48.0506364,557.4483642578125</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #281</name>
+        <description>&lt;br/&gt;Altitude 532.4m&lt;br/&gt;Speed 221.18km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.5620607,48.050787,532.4140625</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #282</name>
+        <description>&lt;br/&gt;Altitude 517.9m&lt;br/&gt;Speed 218.45km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.5707801,48.0513794,517.8630981445312</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #283</name>
+        <description>&lt;br/&gt;Altitude 482.9m&lt;br/&gt;Speed 206.21km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.5868389,48.052927,482.933349609375</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #284</name>
+        <description>&lt;br/&gt;Altitude 467.1m&lt;br/&gt;Speed 193.93km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.6005429,48.0548065,467.091552734375</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #285</name>
+        <description>&lt;br/&gt;Altitude 438.2m&lt;br/&gt;Speed 191.88km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.6082473,48.0557956,438.1697998046875</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #286</name>
+        <description>&lt;br/&gt;Altitude 431.4m&lt;br/&gt;Speed 173.41km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.62158,48.0573867,431.4451904296875</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #287</name>
+        <description>&lt;br/&gt;Altitude 425.7m&lt;br/&gt;Speed 168.80km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.6278783,48.0582804,425.66241455078125</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #288</name>
+        <description>&lt;br/&gt;Altitude 425.3m&lt;br/&gt;Speed 177.62km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.6406524,48.0601075,425.2784423828125</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #289</name>
+        <description>&lt;br/&gt;Altitude 409.5m&lt;br/&gt;Speed 171.07km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.6470859,48.0609201,409.516357421875</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #290</name>
+        <description>&lt;br/&gt;Altitude 373.0m&lt;br/&gt;Speed 169.67km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.6589341,48.0624011,372.9825439453125</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #291</name>
+        <description>&lt;br/&gt;Altitude 349.5m&lt;br/&gt;Speed 168.62km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.6657832,48.0634022,349.5399169921875</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #292</name>
+        <description>&lt;br/&gt;Altitude 330.3m&lt;br/&gt;Speed 172.69km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.672069,48.0641386,330.302734375</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #293</name>
+        <description>&lt;br/&gt;Altitude 296.9m&lt;br/&gt;Speed 172.37km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.678291,48.0649833,296.8563232421875</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #294</name>
+        <description>&lt;br/&gt;Altitude 267.7m&lt;br/&gt;Speed 164.66km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.6899911,48.0663977,267.6923828125</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #295</name>
+        <description>&lt;br/&gt;Altitude 209.4m&lt;br/&gt;Speed 162.50km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.6960238,48.0672638,209.432373046875</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #296</name>
+        <description>&lt;br/&gt;Altitude 186.0m&lt;br/&gt;Speed 152.03km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.7022319,48.0681317,186.0198974609375</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #297</name>
+        <description>&lt;br/&gt;Altitude 141.7m&lt;br/&gt;Speed 144.65km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.7133978,48.0695707,141.74981689453125</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #298</name>
+        <description>&lt;br/&gt;Altitude 125.3m&lt;br/&gt;Speed 141.59km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.7186259,48.0701879,125.29736328125</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #299</name>
+        <description>&lt;br/&gt;Altitude 55.4m&lt;br/&gt;Speed 93.42km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.7266003,48.0712955,55.38397216796875</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #300</name>
+        <description>&lt;br/&gt;Altitude 79.9m&lt;br/&gt;Speed 126.40km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.7307937,48.0718058,79.8673095703125</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #301</name>
+        <description>&lt;br/&gt;Altitude 89.4m&lt;br/&gt;Speed 148.14km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.736059,48.0724529,89.37646484375</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #302</name>
+        <description>&lt;br/&gt;Altitude 116.5m&lt;br/&gt;Speed 154.94km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.7416613,48.0731024,116.4976806640625</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #303</name>
+        <description>&lt;br/&gt;Altitude 168.2m&lt;br/&gt;Speed 166.72km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.7531454,48.0747431,168.15020751953125</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #304</name>
+        <description>&lt;br/&gt;Altitude 204.9m&lt;br/&gt;Speed 170.10km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.7594797,48.0754427,204.9244384765625</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #305</name>
+        <description>&lt;br/&gt;Altitude 298.0m&lt;br/&gt;Speed 164.95km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.7718699,48.0766317,297.960693359375</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #306</name>
+        <description>&lt;br/&gt;Altitude 328.9m&lt;br/&gt;Speed 165.89km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.7779718,48.0770273,328.938720703125</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #307</name>
+        <description>&lt;br/&gt;Altitude 386.1m&lt;br/&gt;Speed 172.04km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.7892906,48.0770139,386.113525390625</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #308</name>
+        <description>&lt;br/&gt;Altitude 440.4m&lt;br/&gt;Speed 183.78km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.7934986,48.07334,440.435791015625</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #309</name>
+        <description>&lt;br/&gt;Altitude 460.7m&lt;br/&gt;Speed 187.96km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.7907563,48.0693327,460.66815185546875</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #310</name>
+        <description>&lt;br/&gt;Altitude 493.9m&lt;br/&gt;Speed 174.67km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.7859586,48.066113,493.9488525390625</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #311</name>
+        <description>&lt;br/&gt;Altitude 477.9m&lt;br/&gt;Speed 176.62km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.7770535,48.0598469,477.88946533203125</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #312</name>
+        <description>&lt;br/&gt;Altitude 469.0m&lt;br/&gt;Speed 181.04km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.7722446,48.0566998,469.03887939453125</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #313</name>
+        <description>&lt;br/&gt;Altitude 484.8m&lt;br/&gt;Speed 173.59km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.7674478,48.0537984,484.7991943359375</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #314</name>
+        <description>&lt;br/&gt;Altitude 483.9m&lt;br/&gt;Speed 152.17km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.7571849,48.049394,483.89398193359375</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #315</name>
+        <description>&lt;br/&gt;Altitude 461.1m&lt;br/&gt;Speed 135.61km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.7518502,48.0482566,461.1072998046875</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #316</name>
+        <description>&lt;br/&gt;Altitude 403.2m&lt;br/&gt;Speed 147.13km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.7474384,48.0482661,403.1595458984375</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #317</name>
+        <description>&lt;br/&gt;Altitude 312.3m&lt;br/&gt;Speed 137.41km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.7365987,48.0495508,312.28411865234375</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #318</name>
+        <description>&lt;br/&gt;Altitude 275.4m&lt;br/&gt;Speed 124.45km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.732232,48.0509453,275.44207763671875</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #319</name>
+        <description>&lt;br/&gt;Altitude 227.5m&lt;br/&gt;Speed 135.14km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.7301663,48.0538163,227.540771484375</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #320</name>
+        <description>&lt;br/&gt;Altitude 200.7m&lt;br/&gt;Speed 139.82km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.7299575,48.0573955,200.73150634765625</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #321</name>
+        <description>&lt;br/&gt;Altitude 110.7m&lt;br/&gt;Speed 124.06km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.7324003,48.0630527,110.70208740234375</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #322</name>
+        <description>&lt;br/&gt;Altitude 90.9m&lt;br/&gt;Speed 96.52km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.7350149,48.0652471,90.90625</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #323</name>
+        <description>&lt;br/&gt;Altitude 86.9m&lt;br/&gt;Speed 70.43km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.7367246,48.0668395,86.857421875</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #324</name>
+        <description>&lt;br/&gt;Altitude 78.8m&lt;br/&gt;Speed 44.13km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.7381403,48.0680274,78.758544921875</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #325</name>
+        <description>&lt;br/&gt;Altitude 89.7m&lt;br/&gt;Speed 15.54km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.7387289,48.0685279,89.6790771484375</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #326</name>
+        <description>&lt;br/&gt;Altitude 87.1m&lt;br/&gt;Speed 3.70km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.7388411,48.0685998,87.073974609375</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #327</name>
+        <description>&lt;br/&gt;Altitude 91.6m&lt;br/&gt;Speed 10.12km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.7388376,48.06848,91.64031982421875</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #328</name>
+        <description>&lt;br/&gt;Altitude 83.1m&lt;br/&gt;Speed 41.67km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.7373682,48.067254,83.0704345703125</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #329</name>
+        <description>&lt;br/&gt;Altitude 80.6m&lt;br/&gt;Speed 41.77km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.7354174,48.065585,80.60601806640625</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #330</name>
+        <description>&lt;br/&gt;Altitude 84.6m&lt;br/&gt;Speed 29.33km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.7346933,48.0648878,84.55133056640625</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #331</name>
+        <description>&lt;br/&gt;Altitude 79.0m&lt;br/&gt;Speed 21.22km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.7341441,48.0644711,79.03021240234375</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #332</name>
+        <description>&lt;br/&gt;Altitude 79.8m&lt;br/&gt;Speed 14.49km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.734267,48.0641985,79.8082275390625</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #333</name>
+        <description>&lt;br/&gt;Altitude 84.0m&lt;br/&gt;Speed 17.46km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.7343836,48.063538,84.030517578125</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #334</name>
+        <description>&lt;br/&gt;Altitude 80.5m&lt;br/&gt;Speed 12.21km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.7341533,48.0631761,80.49853515625</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #335</name>
+        <description>&lt;br/&gt;Altitude 92.2m&lt;br/&gt;Speed 11.45km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.7341231,48.0630648,92.21990966796875</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #336</name>
+        <description>&lt;br/&gt;Altitude 100.5m&lt;br/&gt;Speed 7.96km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.7340359,48.0628821,100.469482421875</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #337</name>
+        <description>&lt;br/&gt;Altitude 96.8m&lt;br/&gt;Speed 8.25km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.7341221,48.0627981,96.78204345703125</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #338</name>
+        <description>&lt;br/&gt;Altitude 76.3m&lt;br/&gt;Speed 9.76km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.7346198,48.0626153,76.2620849609375</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #339</name>
+        <description>&lt;br/&gt;Altitude 67.4m&lt;br/&gt;Speed 2.79km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.7345719,48.0624262,67.406494140625</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #340</name>
+        <description>&lt;br/&gt;Altitude 71.6m&lt;br/&gt;Speed 2.67km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.7346026,48.0623653,71.62786865234375</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #341</name>
+        <description>&lt;br/&gt;Altitude 69.6m&lt;br/&gt;Speed 0.80km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.7345472,48.0623972,69.6412353515625</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #342</name>
+        <description>&lt;br/&gt;Altitude 73.4m&lt;br/&gt;Speed 0.11km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.7345228,48.0624391,73.35858154296875</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #343</name>
+        <description>&lt;br/&gt;Altitude 71.8m&lt;br/&gt;Speed 0.10km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.7344871,48.0624782,71.8048095703125</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #344</name>
+        <description>&lt;br/&gt;Altitude 78.4m&lt;br/&gt;Speed 4.84km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.7346713,48.0619422,78.4110107421875</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #345</name>
+        <description>&lt;br/&gt;Altitude 109.4m&lt;br/&gt;Speed 4.44km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.7344545,48.0617151,109.43408203125</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #346</name>
+        <description>&lt;br/&gt;Altitude 67.1m&lt;br/&gt;Speed 7.58km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.7343521,48.0615739,67.07879638671875</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #347</name>
+        <description>&lt;br/&gt;Altitude 79.8m&lt;br/&gt;Speed 5.63km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.7342136,48.0613775,79.7623291015625</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #348</name>
+        <description>&lt;br/&gt;Altitude 88.9m&lt;br/&gt;Speed 4.63km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.7341673,48.061285,88.91546630859375</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #349</name>
+        <description>&lt;br/&gt;Altitude 86.4m&lt;br/&gt;Speed 0.71km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.7341688,48.0613357,86.4356689453125</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #350</name>
+        <description>&lt;br/&gt;Altitude 80.2m&lt;br/&gt;Speed 0.46km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.7342321,48.0613585,80.19999694824219</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #351</name>
+        <description>&lt;br/&gt;Altitude 80.3m&lt;br/&gt;Speed 3.08km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.7342952,48.0613317,80.29999542236328</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #352</name>
+        <description>&lt;br/&gt;Altitude 80.3m&lt;br/&gt;Speed 5.07km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.7342865,48.0613869,80.29999542236328</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #353</name>
+        <description>&lt;br/&gt;Altitude 80.3m&lt;br/&gt;Speed 18.63km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.7341356,48.0613007,80.29999542236328</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #354</name>
+        <description>&lt;br/&gt;Altitude 80.3m&lt;br/&gt;Speed 15.78km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.7335083,48.0609513,80.29999542236328</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #355</name>
+        <description>&lt;br/&gt;Altitude 80.3m&lt;br/&gt;Speed 60.53km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.7383611,48.0560739,80.29999542236328</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #356</name>
+        <description>&lt;br/&gt;Altitude 80.3m&lt;br/&gt;Speed 39.25km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.7385764,48.0554029,80.29999542236328</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #357</name>
+        <description>&lt;br/&gt;Altitude 84.0m&lt;br/&gt;Speed 44.53km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.7367558,48.0545428,84.016845703125</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #358</name>
+        <description>&lt;br/&gt;Altitude 90.2m&lt;br/&gt;Speed 77.33km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.7260808,48.0534316,90.17041015625</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #359</name>
+        <description>&lt;br/&gt;Altitude 100.5m&lt;br/&gt;Speed 77.77km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.723317,48.0527728,100.48785400390625</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #360</name>
+        <description>&lt;br/&gt;Altitude 96.5m&lt;br/&gt;Speed 113.08km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.7202754,48.052023,96.5125732421875</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #361</name>
+        <description>&lt;br/&gt;Altitude 85.2m&lt;br/&gt;Speed 98.32km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.7163756,48.0510902,85.21063232421875</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #362</name>
+        <description>&lt;br/&gt;Altitude 105.8m&lt;br/&gt;Speed 19.88km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.709153,48.0486335,105.83319091796875</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #363</name>
+        <description>&lt;br/&gt;Altitude 87.9m&lt;br/&gt;Speed 57.89km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.709042,48.0483374,87.9000015258789</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #364</name>
+        <description>&lt;br/&gt;Altitude 87.9m&lt;br/&gt;Speed 34.13km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.7077322,48.0493634,87.9000015258789</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #365</name>
+        <description>&lt;br/&gt;Altitude 87.9m&lt;br/&gt;Speed 97.52km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.7050587,48.053578,87.9000015258789</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #366</name>
+        <description>&lt;br/&gt;Altitude 77.5m&lt;br/&gt;Speed 101.07km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.702475,48.0572238,77.5203857421875</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #367</name>
+        <description>&lt;br/&gt;Altitude 80.0m&lt;br/&gt;Speed 114.16km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.700575,48.0597442,80.04052734375</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #368</name>
+        <description>&lt;br/&gt;Altitude 75.9m&lt;br/&gt;Speed 74.77km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.6992449,48.06224,75.9202880859375</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #369</name>
+        <description>&lt;br/&gt;Altitude 93.6m&lt;br/&gt;Speed 93.71km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.6981262,48.0667438,93.602783203125</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #370</name>
+        <description>&lt;br/&gt;Altitude 81.4m&lt;br/&gt;Speed 137.30km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.6966027,48.0718024,81.36700439453125</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #371</name>
+        <description>&lt;br/&gt;Altitude 76.4m&lt;br/&gt;Speed 95.15km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.6955333,48.0748425,76.4443359375</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #372</name>
+        <description>&lt;br/&gt;Altitude 90.8m&lt;br/&gt;Speed 87.26km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.6941846,48.0770716,90.8236083984375</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #373</name>
+        <description>&lt;br/&gt;Altitude 82.6m&lt;br/&gt;Speed 94.64km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.6793331,48.080387,82.612060546875</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #374</name>
+        <description>&lt;br/&gt;Altitude 83.8m&lt;br/&gt;Speed 99.43km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.6688391,48.0811731,83.83837890625</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #375</name>
+        <description>&lt;br/&gt;Altitude 65.3m&lt;br/&gt;Speed 91.01km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.6654383,48.0812777,65.33740234375</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #376</name>
+        <description>&lt;br/&gt;Altitude 96.6m&lt;br/&gt;Speed 104.87km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.6580534,48.0812947,96.61663818359375</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #377</name>
+        <description>&lt;br/&gt;Altitude 92.7m&lt;br/&gt;Speed 104.87km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.6543548,48.0814828,92.68157958984375</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #378</name>
+        <description>&lt;br/&gt;Altitude 87.6m&lt;br/&gt;Speed 102.13km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.6463274,48.0819344,87.57177734375</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #379</name>
+        <description>&lt;br/&gt;Altitude 93.2m&lt;br/&gt;Speed 109.12km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.6396293,48.0851295,93.183349609375</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #380</name>
+        <description>&lt;br/&gt;Altitude 82.0m&lt;br/&gt;Speed 108.90km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.6363404,48.0867135,81.96173095703125</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #381</name>
+        <description>&lt;br/&gt;Altitude 99.7m&lt;br/&gt;Speed 105.80km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.6298726,48.0902244,99.711181640625</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #382</name>
+        <description>&lt;br/&gt;Altitude 71.0m&lt;br/&gt;Speed 94.39km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.6269646,48.091845,71.03289794921875</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #383</name>
+        <description>&lt;br/&gt;Altitude 92.6m&lt;br/&gt;Speed 92.10km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.6218056,48.0948374,92.6220703125</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #384</name>
+        <description>&lt;br/&gt;Altitude 100.8m&lt;br/&gt;Speed 95.47km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.6159321,48.0980691,100.83935546875</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #385</name>
+        <description>&lt;br/&gt;Altitude 88.2m&lt;br/&gt;Speed 97.02km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.6115846,48.1001645,88.16259765625</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #386</name>
+        <description>&lt;br/&gt;Altitude 117.1m&lt;br/&gt;Speed 31.39km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.6093529,48.1012822,117.082275390625</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #387</name>
+        <description>&lt;br/&gt;Altitude 129.0m&lt;br/&gt;Speed 65.00km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.6083673,48.1020848,129.047119140625</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #388</name>
+        <description>&lt;br/&gt;Altitude 96.8m&lt;br/&gt;Speed 36.33km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.609317,48.1028574,96.801513671875</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #389</name>
+        <description>&lt;br/&gt;Altitude 105.8m&lt;br/&gt;Speed 95.56km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.6115111,48.1032352,105.7576904296875</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #390</name>
+        <description>&lt;br/&gt;Altitude 108.8m&lt;br/&gt;Speed 48.57km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.6161603,48.1064726,108.759521484375</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #391</name>
+        <description>&lt;br/&gt;Altitude 78.9m&lt;br/&gt;Speed 25.28km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.6162859,48.1073876,78.90020751953125</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #392</name>
+        <description>&lt;br/&gt;Altitude 93.1m&lt;br/&gt;Speed 43.68km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.6110876,48.1083041,93.0999984741211</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #393</name>
+        <description>&lt;br/&gt;Altitude 89.2m&lt;br/&gt;Speed 38.75km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.6089161,48.1097675,89.19999694824219</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #394</name>
+        <description>&lt;br/&gt;Altitude 89.2m&lt;br/&gt;Speed 33.64km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.6081485,48.1123736,89.19999694824219</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #395</name>
+        <description>&lt;br/&gt;Altitude 74.5m&lt;br/&gt;Speed 34.47km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.6066134,48.1129076,74.5</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #396</name>
+        <description>&lt;br/&gt;Altitude 74.8m&lt;br/&gt;Speed 14.36km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.6069706,48.1132859,74.79999542236328</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POI #397</name>
+        <description>&lt;br/&gt;Altitude 74.8m&lt;br/&gt;Speed 2.49km/h</description>
+        <visibility>0</visibility>
+        <styleUrl>#IconWpt</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <extrude>1</extrude>
+          <coordinates>-1.6069739,48.1133964,74.79999542236328</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
