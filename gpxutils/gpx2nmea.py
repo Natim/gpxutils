@@ -29,9 +29,10 @@ with open(GPX_FILE, "r") as gpx_file:
         for segment in track.segments:
             for point in segment.points:
                 poi_count += 1
+                elevation_feet = point.elevation * 3.28084
                 print(
-                    "Point at ({0},{1}) -> {2}".format(
-                        point.latitude, point.longitude, point.elevation
+                    "Point at ({0},{1}) -> {2} - {3}".format(
+                        point.latitude, point.longitude, point.elevation - 50, elevation_feet
                     )
                 )
 
@@ -91,7 +92,7 @@ with open(GPX_FILE, "r") as gpx_file:
                 coordinate = f"{point.longitude},{point.latitude},{point.elevation}"
                 coordinates_buffer.write(f"{coordinate}\n")
 
-                description = f"<br/>Altitude {point.elevation:.1f}m"
+                description = f"<br/>Altitude {point.elevation:.1f}m {elevation_feet:.1f}f "
                 if speedKmh:
                     description += f"<br/>Speed {speedKmh:.2f}km/h"
 
